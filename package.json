@@ -1,0 +1,19 @@
+{
+  "name": "repo-stats",
+  "version": "1.0.0",
+  "description": "Generate statistics for a GitHub repository based on each contributor",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "statistics",
+    "github",
+    "contributor"
+  ],
+  "author": "Robbie Jaeger",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.3.0"
+  }
+}
